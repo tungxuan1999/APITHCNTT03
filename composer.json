@@ -9,8 +9,8 @@
             "email": "tung.nx4388@sinhvien.hoasen.edu.vn"
         }
     ],
-    "minimum-stability": "dev",
-    "prefer-stable":  false,
+    "minimum-stability": "stable",
+    "prefer-stable":  true,
     "require": {
         "kreait/firebase-php": "5.0",
         "php": ">= 7.2.0",
